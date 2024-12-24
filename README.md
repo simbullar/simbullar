@@ -1,8 +1,7 @@
 <h1>Hello, World!</h1>
-<h3>Hello, my name is simbullar! I am a full-stack developer. I code in </h3>
+<h3>Hello, my name is simbullar! I am a full-stack developer. I code mainly in Python for small programs, Javascript for larger ones.</h3>
 
-<h2>My projects</h2>
 
-- [ ] dndassist
-- [ ] Website at https://simbullar.github.io/
-- [ ] Rich Text-Editor
+<h2>About me</h2>
+- Learning JavaSript, Python, Typescript and Go
+- Working on something pretty big
