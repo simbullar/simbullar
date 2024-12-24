@@ -3,5 +3,5 @@
 
 
 <h2>About me</h2>
-- Learning JavaSript, Python, Typescript and Go
-- Working on something pretty big
+- 🌱 &nbsp;I’m currently learning JavaSript, Python, Typescript and Go.
+- I am working on something pretty big :)
